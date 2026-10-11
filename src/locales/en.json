@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Squadron 42 Wiki",
+    "shortName": "Squadron 42",
+    "tagline": "Complete Guides, Ships, Missions & Systems",
+    "description": "Explore Squadron 42 Wiki with detailed ship guides, mission walkthroughs, weapons, characters, gameplay tips, and the latest updates for players.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -30,19 +30,19 @@
       "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Cinematic Single Player Space Combat Adventure",
+      "title": "Squadron 42 Wiki",
+      "description": "Squadron 42 is a cinematic single-player space combat game featuring a story-driven campaign, tactical battles, advanced spacecraft, and immersive sci-fi gameplay.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "5M+ Community Players",
+        "100+ Missions Available",
+        "0 Active Codes",
+        "Monthly Updates"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
+      "primaryCta": "PC Game Overview",
+      "secondaryCta": "Ships & Missions",
       "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "videoLabel": "Official Gameplay Reveal"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
-      "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "title": "Ready to Enlist in Squadron 42?",
+      "description": "Prepare for the cinematic single-player campaign with our comprehensive spacecraft guides, combat tactics, and mission walkthroughs.",
+      "primary": "Explore Ships & Guides",
+      "secondary": "Visit Official RSI Website"
     }
   },
   "bosses": {
@@ -379,21 +379,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Squadron 42 Wiki",
+    "about": "Squadron 42 Wiki is an independent fan-built guide hub covering spacecraft, tactical space combat, campaign missions, systems, and essential lore for Squadron 42 players.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
+    "copyright": "2026 Squadron 42 Wiki. Not affiliated with Cloud Imperium Games or Roberts Space Industries.",
+    "description": "Cinematic single-player space combat adventure in the Star Citizen universe.",
+    "playGame": "Official Website",
+    "officialDiscord": "RSI Community",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Ship & Loadout Guide",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Factions & Fleet",
+    "bossGuides": "Campaign Missions",
+    "buildGuide": "Ship Loadouts",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
