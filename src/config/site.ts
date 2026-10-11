@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://robertsspaceindustries.com/squadron42",
     youtube: "https://www.youtube.com/@starcitizen",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "fr", "es"],
   defaultLocale: "en",
 };
