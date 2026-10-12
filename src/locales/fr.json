@@ -1,1 +1,533 @@
-{}
+{
+  "site": {
+    "name": "Squadron 42 Wiki",
+    "shortName": "Squadron 42",
+    "tagline": "Guides complets, vaisseaux, missions et systèmes",
+    "description": "Explorez le wiki Squadron 42 avec des guides détaillés sur les vaisseaux, les solutions de mission, les armes, les personnages, des astuces de gameplay et les dernières mises à jour pour les joueurs.",
+    "legalNotice": "Wiki de fans non officiel. Réalisé par des joueurs, pour des joueurs."
+  },
+  "nav": {
+    "home": "Accueil",
+    "menu": "Menu",
+    "toggleTheme": "Changer de thème",
+    "guide": "Guide",
+    "release": "Sortie",
+    "characters": "Personnages",
+    "lore": "Lore",
+    "ships": "Vaisseaux",
+    "info": "Infos"
+  },
+  "home": {
+    "meta": {
+      "title": "Squadron 42 Wiki - Vaisseaux, missions et guides",
+      "description": "Explorez le wiki Squadron 42 avec des guides détaillés sur les vaisseaux, les solutions de mission, les armes, les personnages, des astuces de gameplay et les dernières mises à jour pour les joueurs."
+    },
+    "hero": {
+      "eyebrow": "Aventure de combat spatial solo cinématographique",
+      "title": "Squadron 42 Wiki",
+      "description": "Squadron 42 est un jeu de combat spatial solo cinématographique proposant une campagne scénarisée, des batailles tactiques, des vaisseaux avancés et un gameplay de science-fiction immersif.",
+      "stats": [
+        "5 M+ de joueurs",
+        "100+ missions disponibles",
+        "0 code actif",
+        "Mises à jour mensuelles"
+      ],
+      "primaryCta": "Aperçu du jeu PC",
+      "secondaryCta": "Ajouter à la liste de souhaits sur Steam",
+      "tertiaryCta": "Guide du débutant",
+      "videoLabel": "Révélation de gameplay officielle"
+    },
+    "updates": {
+      "title": "Dernières mises à jour",
+      "browse": "Parcourir tous les guides",
+      "viewAll": "Tout voir"
+    },
+    "start": {
+      "eyebrow": "Commencez ici",
+      "title": "Votre parcours dans Squadron 42",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guide du débutant",
+          "description": "Apprenez le vol 6DoF, les manœuvres couplées et découplées, ainsi que le triangle de puissance avant votre première sortie dans la Navy de l'UEE."
+        },
+        {
+          "number": "2",
+          "title": "Bases du vol et du combat",
+          "description": "Maîtrisez le contrôle des gaz, les limites de vitesse SCM, le ciblage des sous-systèmes et les contre-mesures pour remporter vos premiers combats."
+        },
+        {
+          "number": "3",
+          "title": "Vaisseaux et configurations",
+          "description": "Comparez le Gladius, le Hornet et le Vanguard, et choisissez le bon chasseur, les armes et les boucliers pour chaque mission."
+        },
+        {
+          "number": "4",
+          "title": "Solution de la campagne",
+          "description": "Suivez la campagne solo en 28 chapitres, de l'engagement à bord de l'UEES Stanton jusqu'à la bataille finale de la flotte."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Pages populaires",
+      "title": "Tendances actuelles",
+      "quickLinks": [
+        "Solution de la campagne",
+        "Configurations de vaisseaux",
+        "Date de sortie",
+        "Astuces de combat"
+      ],
+      "cards": [
+        {
+          "badge": "Débutant",
+          "title": "Guide du débutant",
+          "description": "Tout ce dont vous avez besoin, de votre premier vol à la maîtrise des bases du combat et de la progression.",
+          "href": "/guide/squadron-42-beginner-guide"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Date de sortie et plateformes",
+          "description": "Le dernier état de lancement, les plateformes prises en charge et les annonces officielles pour Squadron 42.",
+          "href": "/release/squadron-42-release-date"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Vaisseaux et chasseurs",
+          "description": "Aperçu complet des chasseurs pilotables, bombardiers et vaisseaux capitaux de la campagne.",
+          "href": "/ships/squadron-42-ships"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Guide de gameplay",
+          "description": "Mécaniques de vol, gestion de l'énergie, rôles des vaisseaux et fondamentaux du combat pour la campagne.",
+          "href": "/guide/squadron-42-guide"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Fonctionnalités de gameplay",
+          "description": "Combat spatial, abordage à la première personne, opérations EVA et conception de missions cinématographiques.",
+          "href": "/info/squadron-42-gameplay"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Solution des missions",
+          "description": "Solution complète de la campagne avec objectifs, astuces et récompenses de mission.",
+          "href": "/guide/squadron-42-walkthrough"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Configuration requise",
+          "description": "Spécifications PC minimales et recommandées pour faire tourner Squadron 42 en douceur.",
+          "href": "/info/squadron-42-requirements"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Personnages et casting",
+          "description": "Rencontrez l'équipage de l'UEES Stanton et les figures clés de la campagne.",
+          "href": "/characters/squadron-42-characters"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Actualités et mises à jour",
+          "description": "Mises à jour de développement, bandes-annonces et annonces de Cloud Imperium Games.",
+          "href": "/release/squadron-42-release-news"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Qu'est-ce que Squadron 42 ?",
+      "paragraphs": [
+        "Squadron 42 est un jeu de combat spatial solo cinématographique situé dans l'univers de Star Citizen. Vous vous engagez comme pilote débutant dans la Navy du United Empire of Earth (UEE) et traversez une campagne scénarisée faite de combats tactiques, d'abordages et de batailles de flotte à grande échelle à bord de la frégate de classe Idris, l'UEES Stanton.",
+        "Développé par Cloud Imperium Games sous la direction de Chris Roberts, Squadron 42 associe un casting hollywoodien en capture de mouvement à des vaisseaux détaillés et à des combats newtoniens en 6DoF. Notre wiki couvre ses vaisseaux, missions, armes, personnages et systèmes avec des guides pratiques et des solutions."
+      ],
+      "stats": [
+        {
+          "label": "Développeur",
+          "value": "Cloud Imperium Games"
+        },
+        {
+          "label": "Plateforme",
+          "value": "PC / Steam"
+        },
+        {
+          "label": "Genre",
+          "value": "Simulation de combat spatial"
+        },
+        {
+          "label": "Univers",
+          "value": "Star Citizen"
+        },
+        {
+          "label": "Mode",
+          "value": "Solo"
+        },
+        {
+          "label": "Campagne",
+          "value": "28 chapitres"
+        },
+        {
+          "label": "Statut",
+          "value": "En développement"
+        }
+      ],
+      "cta": "Explorer tous les guides"
+    },
+    "explore": {
+      "title": "Explorez le wiki Squadron 42",
+      "description": "Plongez dans Squadron 42 avec des guides de vaisseaux, des solutions de mission, des tactiques de combat et tout ce qu'il faut pour maîtriser la campagne solo.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Présentation du jeu Squadron 42",
+          "description": "Une introduction complète à Squadron 42, couvrant le concept de campagne solo, son cadre de science-fiction, son contexte narratif, son style de gameplay et l'état de son développement.",
+          "href": "/guide/squadron-42-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Genre",
+              "detail": "Simulation de combat spatial solo cinématographique située dans l'univers de Star Citizen"
+            },
+            {
+              "label": "Studio",
+              "detail": "Développé par Cloud Imperium Games sous la direction de Chris Roberts"
+            },
+            {
+              "label": "Campagne",
+              "detail": "Une campagne scénarisée de la Navy de l'UEE s'étendant sur 28 chapitres de missions"
+            },
+            {
+              "label": "Plateforme",
+              "detail": "Développé pour PC avec un lancement prévu sur Steam"
+            },
+            {
+              "label": "Moteur",
+              "detail": "Propulsé par StarEngine avec des transitions cinématographiques fluides"
+            },
+            {
+              "label": "Cadre",
+              "detail": "Situé au 30e siècle, pendant la guerre contre les Vanduul qui s'intensifie"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Date de sortie de Squadron 42",
+          "description": "Suivez le dernier état de sortie de Squadron 42, le calendrier de lancement, les plateformes confirmées et les annonces officielles de Cloud Imperium Games.",
+          "href": "/release/squadron-42-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "2026",
+              "detail": "Objectif de livraison interne fixé après le jalon de fonctionnalités complètes"
+            },
+            {
+              "label": "Fonctionnalités complètes",
+              "detail": "Annoncé fin 2023 ; la campagne est désormais en phase d'optimisation et de finition"
+            },
+            {
+              "label": "PC",
+              "detail": "Windows 10 et 11 (64 bits) sont la plateforme cible confirmée"
+            },
+            {
+              "label": "Steam",
+              "detail": "Sortie prévue aux côtés de la boutique officielle RSI"
+            },
+            {
+              "label": "StarEngine",
+              "detail": "L'intégration de Vulkan et l'éclairage global accompagneront la version finale"
+            },
+            {
+              "label": "28 chapitres",
+              "detail": "L'ampleur complète de la campagne est figée sur des dizaines de missions indépendantes"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guide du débutant de Squadron 42",
+          "description": "Commencez à voler avec un guide Squadron 42 pour débutants couvrant les commandes de vol, la gestion de l'énergie, les bases du combat et la préparation des missions pour les nouveaux pilotes.",
+          "href": "/guide/squadron-42-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Terminez l'entraînement au vol et apprenez les axes 6DoF de tangage, lacet, roulis et translation"
+            },
+            {
+              "label": "2",
+              "detail": "Alternez entre les modes de vol couplé et découplé pour contrôler votre vecteur de vitesse"
+            },
+            {
+              "label": "3",
+              "detail": "Répartissez l'énergie entre armes, boucliers et moteurs grâce au triangle de puissance"
+            },
+            {
+              "label": "4",
+              "detail": "Entraînez-vous au ciblage des sous-systèmes pour désactiver les moteurs et les armes ennemis"
+            },
+            {
+              "label": "5",
+              "detail": "Gérez le limiteur de vitesse SCM et la chaleur de la postcombustion lors des combats rapprochés"
+            },
+            {
+              "label": "6",
+              "detail": "Préparez votre configuration et votre liste de vérification avant chaque déploiement"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Fonctionnalités de gameplay de Squadron 42",
+          "description": "Explorez les principaux systèmes de gameplay de Squadron 42, du combat spatial newtonien et des abordages FPS aux opérations EVA et à la conception de missions cinématographiques.",
+          "href": "/info/squadron-42-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Vol",
+              "detail": "Combat newtonien 6DoF avec modes de vol couplé et découplé"
+            },
+            {
+              "label": "FPS",
+              "detail": "Combat d'abordage à la première personne physiquement simulé avec dégâts localisés aux membres"
+            },
+            {
+              "label": "EVA",
+              "detail": "Missions en apesanteur utilisant bottes magnétiques, rayons tracteurs et propulseurs"
+            },
+            {
+              "label": "Énergie",
+              "detail": "Un réseau de réacteur partagé équilibrant boucliers, armes et propulseurs"
+            },
+            {
+              "label": "Cinématique",
+              "detail": "Narration fluide sans écrans de chargement ni interruptions de cinématique"
+            },
+            {
+              "label": "Flotte",
+              "detail": "Intérieurs de vaisseaux capitaux et dynamique des engagements de flotte à grande échelle"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guide des vaisseaux de Squadron 42",
+          "description": "Passez en revue les principaux vaisseaux de Squadron 42, des chasseurs de première ligne aux vaisseaux capitaux, et découvrez comment chaque coque s'intègre à la doctrine de flotte de la Navy de l'UEE.",
+          "href": "/ships/squadron-42-ships",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Porte-chasse de classe Bengal : une plateforme de commandement et de projection de force de 990 m"
+            },
+            {
+              "label": "A",
+              "detail": "Frégate Idris-M et destroyer Javelin protégeant les flottes par des tirs de railgun"
+            },
+            {
+              "label": "B",
+              "detail": "F7A Hornet Mk II et Vanguard Warden tenant la ligne en tant que chasseurs lourds"
+            },
+            {
+              "label": "C",
+              "detail": "Intercepteur léger Gladius : rapide et agile, mais fragile pour les pilotes débutants"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Histoire et personnages de Squadron 42",
+          "description": "Rencontrez le casting de Squadron 42 et suivez l'histoire de la campagne, de la bataille de Vega II à la menace extraterrestre Vanduul à travers le système Odin.",
+          "href": "/lore/squadron-42-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Bishop",
+              "detail": "L'amiral Ernst Bishop, interprété par Gary Oldman, dirige le haut commandement de la Navy de l'UEE"
+            },
+            {
+              "label": "Old Man",
+              "detail": "Mark Hamill incarne le lieutenant-commandant Steve Colton, votre chef d'escadrille"
+            },
+            {
+              "label": "Ailiers",
+              "detail": "Ryan Enright, incarné par Henry Cavill, vole à vos côtés dans le 42e escadron"
+            },
+            {
+              "label": "Vanduul",
+              "detail": "Les clans extraterrestres Vanduul sont les antagonistes implacables de la campagne"
+            },
+            {
+              "label": "Odin",
+              "detail": "L'histoire se déroule à travers le dangereux système Odin et The Coil"
+            },
+            {
+              "label": "Vega",
+              "detail": "La bataille de Vega II définit les enjeux émotionnels et politiques de la guerre"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Configuration requise de Squadron 42",
+          "description": "Consultez la configuration requise de Squadron 42, y compris les spécifications PC, les besoins en mémoire et en VRAM, et des conseils d'optimisation pour des performances fluides.",
+          "href": "/info/squadron-42-requirements",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Windows 10/11",
+              "detail": "Un système d'exploitation 64 bits est requis pour les configurations minimale et recommandée"
+            },
+            {
+              "label": "16 Go de RAM",
+              "detail": "Mémoire système minimale ; 32 Go sont recommandés pour éviter les micro-saccades"
+            },
+            {
+              "label": "GTX 1080",
+              "detail": "GPU minimal ; une RTX 3070 ou RX 6800 XT est recommandée pour 60+ FPS"
+            },
+            {
+              "label": "SSD NVMe",
+              "detail": "Le stockage M.2 NVMe est fortement recommandé par rapport au SATA pour le streaming des ressources"
+            },
+            {
+              "label": "150 Go",
+              "detail": "Espace libre minimal ; 200 Go ou plus sont recommandés pour l'installation complète"
+            },
+            {
+              "label": "Vulkan",
+              "detail": "La prise en charge native de l'API Vulkan est recommandée pour les performances des GPU modernes"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualités et mises à jour de Squadron 42",
+          "description": "Rassemblez les dernières mises à jour de développement, bandes-annonces, jalons et annonces officielles de Squadron 42 de Cloud Imperium Games.",
+          "href": "/release/squadron-42-release-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Mises à jour",
+              "detail": "Mises à jour officielles de développement et rapports d'avancement mensuels de CIG"
+            },
+            {
+              "label": "Bandes-annonces",
+              "detail": "Bandes-annonces cinématographiques et révélations de gameplay mettant en valeur StarEngine"
+            },
+            {
+              "label": "Feuille de route",
+              "detail": "Suivi des jalons, des fonctionnalités complètes à la fenêtre de lancement"
+            },
+            {
+              "label": "Casting",
+              "detail": "Annonces concernant l'ensemble hollywoodien et la capture de performance"
+            },
+            {
+              "label": "Steam",
+              "detail": "Actualités sur la boutique et le launcher avant la sortie PC"
+            },
+            {
+              "label": "Communauté",
+              "detail": "Comment les joueurs suivent les informations vérifiées sur le développement de Squadron 42"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "description": "Réponses rapides aux questions les plus courantes sur Squadron 42.",
+      "items": [
+        {
+          "question": "Qu'est-ce que Squadron 42 ?",
+          "answer": "Squadron 42 est un jeu de combat spatial solo cinématographique situé dans l'univers de Star Citizen. Vous vous engagez dans la Navy de l'UEE et traversez une campagne scénarisée faite de combats spatiaux, d'abordages et de batailles de flotte à grande échelle."
+        },
+        {
+          "question": "Sur quelles plateformes Squadron 42 est-il disponible ?",
+          "answer": "Squadron 42 est développé pour PC sous Windows 10 et 11 (64 bits) et sa sortie est prévue via le site officiel de RSI et Steam."
+        },
+        {
+          "question": "Squadron 42 est-il identique à Star Citizen ?",
+          "answer": "Non. Squadron 42 est une campagne solo autonome située dans le même univers que le MMO à univers persistant Star Citizen, avec ses propres missions, progression et système de sauvegarde."
+        },
+        {
+          "question": "Squadron 42 a-t-il des codes actifs ?",
+          "answer": "Squadron 42 n'utilise pas de codes à échanger. Il y a actuellement 0 code actif, et tout code circulant en ligne n'est pas officiel."
+        },
+        {
+          "question": "Quand Squadron 42 sortira-t-il ?",
+          "answer": "Cloud Imperium Games a annoncé le jalon de fonctionnalités complètes fin 2023 et vise une fenêtre de sortie en 2026 pour Squadron 42, tandis que la campagne poursuit sa phase d'optimisation et de finition."
+        },
+        {
+          "question": "Combien de temps dure la campagne de Squadron 42 ?",
+          "answer": "Squadron 42 s'étend sur 28 chapitres et des dizaines de missions, mêlant combats spatiaux, opérations de vaisseaux capitaux et combats d'abordage à la première personne à travers le système Odin."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Prêt à vous engager dans Squadron 42 ?",
+      "description": "Préparez-vous à la campagne solo cinématographique grâce à nos guides complets sur les vaisseaux, nos tactiques de combat et nos solutions de mission.",
+      "primary": "Explorer vaisseaux et guides",
+      "secondary": "Visiter le site officiel de RSI"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guides Squadron 42",
+    "overviewDescription": "Des guides Squadron 42 étape par étape couvrant le parcours du débutant, la structure des chapitres, les solutions de mission, les commandes et la durée de la campagne."
+  },
+  "release": {
+    "overviewTitle": "Infos sur la sortie de Squadron 42",
+    "overviewDescription": "Tout ce qui est confirmé sur la date de sortie de Squadron 42, les plateformes de lancement, la fiche Steam, les actualités de sortie et les mises à jour post-lancement."
+  },
+  "characters": {
+    "overviewTitle": "Personnages de Squadron 42",
+    "overviewDescription": "Rencontrez le casting et les personnages de Squadron 42, de la distribution complète des comédiens de doublage et des performances en capture de mouvement à l'équipage clé de l'UEES Stanton."
+  },
+  "lore": {
+    "overviewTitle": "Histoire et lore de Squadron 42",
+    "overviewDescription": "L'histoire, l'intrigue et le lore de Squadron 42 : le United Empire of Earth, la guerre contre les Vanduul et la chronologie qui relie la campagne à l'univers de Star Citizen."
+  },
+  "ships": {
+    "overviewTitle": "Vaisseaux de Squadron 42",
+    "overviewDescription": "Guides des vaisseaux et de la flotte de Squadron 42, incluant les vaisseaux capitaux Bengal, Idris et Javelin ainsi que les chasseurs et configurations que vous pilotez dans la campagne."
+  },
+  "info": {
+    "overviewTitle": "Infos sur le jeu Squadron 42",
+    "overviewDescription": "Infos sur le jeu Squadron 42 : systèmes de gameplay, configuration PC requise, prix et éditions, bandes-annonces officielles et où la communauté en parle."
+  },
+  "shared": {
+    "wikiNavigation": "Navigation du wiki",
+    "quickStart": "Démarrage rapide",
+    "viewAllGuides": "Voir tous les guides",
+    "updated": "Mis à jour",
+    "playOnRoblox": "Visiter le site officiel",
+    "inThisSection": "Dans cette section",
+    "tableOfContents": "Table des matières",
+    "nextSteps": "Étapes suivantes",
+    "needHelp": "Besoin d'aide ?",
+    "relatedReading": "Lectures associées",
+    "relatedGuides": "Guides associés",
+    "readMore": "Lire la suite",
+    "officialMedia": "Médias officiels",
+    "home": "Accueil",
+    "noGuidesAvailable": "Aucun guide disponible pour le moment. Revenez bientôt !"
+  },
+  "footer": {
+    "aboutTitle": "Squadron 42 Wiki",
+    "about": "Squadron 42 Wiki est un hub de guides indépendant créé par des fans, couvrant les vaisseaux, le combat spatial tactique, les missions de campagne, les systèmes et le lore essentiel pour les joueurs de Squadron 42.",
+    "quickLinks": "Liens rapides",
+    "guides": "Guides",
+    "legal": "Mentions légales",
+    "copyright": "2026 Squadron 42 Wiki. Non affilié à Cloud Imperium Games ni à Roberts Space Industries.",
+    "description": "Aventure de combat spatial solo cinématographique dans l'univers de Star Citizen.",
+    "playGame": "Site officiel",
+    "officialDiscord": "Communauté RSI",
+    "officialYoutube": "YouTube officiel",
+    "beginnerGuide": "Guide du débutant",
+    "shipsGuides": "Vaisseaux et flotte",
+    "releaseGuides": "Sortie et actualités",
+    "charactersGuides": "Personnages et casting",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation"
+  }
+}
