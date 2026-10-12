@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "release": "Release",
+    "characters": "Characters",
+    "lore": "Lore",
+    "ships": "Ships",
+    "info": "Info"
   },
   "home": {
     "meta": {
@@ -465,12 +471,35 @@
       "secondary": "Visit Official RSI Website"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Squadron 42 Guides",
+    "overviewDescription": "Step-by-step Squadron 42 guides covering the beginner route, chapter structure, mission walkthroughs, controls, and how long the campaign takes to beat."
+  },
+  "release": {
+    "overviewTitle": "Squadron 42 Release Info",
+    "overviewDescription": "Everything confirmed about the Squadron 42 release date, launch platforms, Steam listing, release news, and post-launch updates."
+  },
+  "characters": {
+    "overviewTitle": "Squadron 42 Characters",
+    "overviewDescription": "Meet the Squadron 42 cast and characters, from the full voice actor lineup and motion-capture performances to the key crew of the UEES Stanton."
+  },
+  "lore": {
+    "overviewTitle": "Squadron 42 Story & Lore",
+    "overviewDescription": "The Squadron 42 story, plot, and lore: the United Empire of Earth, the Vanduul war, and the timeline that connects the campaign to the Star Citizen universe."
+  },
+  "ships": {
+    "overviewTitle": "Squadron 42 Ships",
+    "overviewDescription": "Squadron 42 ships and fleet guides, including the Bengal, Idris, and Javelin capital ships plus the fighters and loadouts you fly in the campaign."
+  },
+  "info": {
+    "overviewTitle": "Squadron 42 Game Info",
+    "overviewDescription": "Squadron 42 game info: gameplay systems, PC system requirements, price and editions, official trailers, and where the community talks about it."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "quickStart": "Quick Start",
+    "viewAllGuides": "View all guides",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
     "playOnRoblox": "Visit Official Website",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -494,11 +523,10 @@
     "playGame": "Official Website",
     "officialDiscord": "RSI Community",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "Ship & Loadout Guide",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Factions & Fleet",
-    "bossGuides": "Campaign Missions",
-    "buildGuide": "Ship Loadouts",
+    "shipsGuides": "Ships & Fleet",
+    "releaseGuides": "Release & News",
+    "charactersGuides": "Characters & Cast",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
