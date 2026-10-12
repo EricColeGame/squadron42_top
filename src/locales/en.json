@@ -13,8 +13,8 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Squadron 42 Wiki - Ships, Missions & Guides",
+      "description": "Explore Squadron 42 Wiki with detailed ship guides, mission walkthroughs, weapons, characters, gameplay tips, and the latest updates for players."
     },
     "hero": {
       "eyebrow": "Cinematic Single Player Space Combat Adventure",
@@ -27,8 +27,8 @@
         "Monthly Updates"
       ],
       "primaryCta": "PC Game Overview",
-      "secondaryCta": "Ships & Missions",
-      "tertiaryCta": "Active Codes",
+      "secondaryCta": "Wishlist on Steam",
+      "tertiaryCta": "Beginner Guide",
       "videoLabel": "Official Gameplay Reveal"
     },
     "updates": {
@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Squadron 42 Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the fundamentals of flight, combat, and mission structure with our step-by-step starter guide for new pilots."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Flight & Combat Basics",
+          "description": "Master targeting, throttle control, and Newtonian flight to survive your first space battles."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Ship Loadouts",
+          "description": "Optimize weapons, shields, and components for every mission type and difficulty."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Campaign Walkthrough",
+          "description": "Follow the single-player campaign mission by mission, from your first flight to the final fleet battle."
         }
       ]
     },
@@ -66,237 +66,237 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Campaign Walkthrough",
+        "Ship Loadouts",
+        "Release Date",
+        "Combat Tips"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first flight to mastering the basics of combat and progression.",
+          "href": "/guide/squadron-42-beginner-guide-2026"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Release Date & Platforms",
+          "description": "The latest launch status, supported platforms, and official announcements for Squadron 42.",
+          "href": "/guide/squadron-42-release-date"
+        },
+        {
+          "badge": "Popular",
+          "title": "Ships & Fighters",
+          "description": "Complete overview of flyable fighters, bombers, and capital ships in the campaign.",
+          "href": "/guide/squadron-42-ships-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Best Loadouts",
+          "description": "Optimal weapon and component loadouts for every ship and mission type.",
+          "href": "/guide/squadron-42-best-loadouts"
+        },
+        {
+          "badge": "New",
+          "title": "Combat Tips",
+          "description": "Advanced dogfighting tactics, targeting, and defensive flying for tougher missions.",
+          "href": "/guide/squadron-42-combat-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Mission Walkthrough",
+          "description": "Full campaign walkthrough with objectives, tips, and mission rewards.",
+          "href": "/guide/squadron-42-campaign-walkthrough"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "System Requirements",
+          "description": "Minimum and recommended PC specifications to run Squadron 42 smoothly.",
+          "href": "/guide/squadron-42-system-requirements"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Characters & Cast",
+          "description": "Meet the crew of the UEES Stanton and the key figures of the campaign.",
+          "href": "/guide/squadron-42-characters"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "News & Updates",
+          "description": "Development updates, trailers, and announcements from Cloud Imperium Games.",
+          "href": "/guide/squadron-42-updates"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Squadron 42?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Squadron 42 is a cinematic single-player space combat game set in the Star Citizen universe. Players enlist in the UEE Navy and fight through a story-driven campaign featuring tactical dogfights, boarding actions, and large-scale fleet battles.",
+        "Developed by Cloud Imperium Games and led by Chris Roberts, Squadron 42 combines a star-studded cast, detailed spacecraft, and immersive sci-fi combat. Our wiki covers ships, missions, weapons, characters, and systems with detailed guides and walkthroughs."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Cloud Imperium Games"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC / Steam"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Space Combat Sim"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Universe",
+          "value": "Star Citizen"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Mode",
+          "value": "Single-Player"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Campaign",
+          "value": "Story-Driven"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Status",
+          "value": "In Development"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Squadron 42 Wiki",
+      "description": "Dive into Squadron 42 with ship guides, mission walkthroughs, combat tactics, and everything you need to master the single-player campaign.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Squadron 42 Game Overview",
+          "description": "A complete introduction to Squadron 42, including the single-player campaign concept, sci-fi setting, story background, and gameplay style.",
+          "href": "/guide/squadron-42-game-overview",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "🚀",
+              "detail": "Setting: Star Citizen universe — UEE Navy vs the Vanduul"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "🎮",
+              "detail": "Mode: Cinematic single-player campaign"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "🏢",
+              "detail": "Developer: Cloud Imperium Games"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
+          "name": "Release Date & Platforms",
+          "description": "Follow the latest release status, launch timeline, supported platforms, and official announcements for Squadron 42.",
+          "href": "/guide/squadron-42-release-date",
           "displayType": "feature-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Platform",
+              "detail": "PC (Windows) via RSI and Steam"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Status",
+              "detail": "In active development by Cloud Imperium Games"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Official",
+              "detail": "Wishlist and follow updates on the RSI website"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "Ships & Fighters Tier List",
+          "description": "Every flyable fighter, bomber, and support ship ranked by combat performance in the campaign.",
+          "href": "/guide/squadron-42-ships-tier-list",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "F7A Hornet Mk II · Sabre — Top dogfighters"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Gladius · Arrow — Agile and reliable"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Buccaneer · Avenger — Solid all-rounders"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Trainers — Great for learning the ropes"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
+          "name": "Best Loadouts & Upgrades",
+          "description": "Optimal weapon, shield, and component loadouts for every ship and mission type.",
+          "href": "/guide/squadron-42-best-loadouts",
           "displayType": "feature-cards",
           "highlights": [
             {
               "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "detail": "Weapons — Match energy and ballistic guns to your playstyle"
             },
             {
               "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "detail": "Shields & Armor — Survive longer in extended fights"
             },
             {
               "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "detail": "Coolers & Power — Keep systems running under fire"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
+          "name": "Combat & Dogfighting Guide",
+          "description": "Advanced tactics for targeting, maneuvering, and surviving large-scale fleet battles.",
+          "href": "/guide/squadron-42-combat-guide",
           "displayType": "feature-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Tactic",
+              "detail": "Use Newtonian drift to line up shots while evading"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Tip",
+              "detail": "Manage power between shields, engines, and weapons"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Advanced",
+              "detail": "Focus fire with wingmen to break capital ship defenses"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
+          "name": "Campaign Mission Walkthrough",
+          "description": "Mission-by-mission walkthrough covering objectives, tips, and rewards across the Squadron 42 campaign.",
+          "href": "/guide/squadron-42-campaign-walkthrough",
           "displayType": "feature-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Act 1",
+              "detail": "Enlist in the UEE Navy and complete flight training"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Act 2",
+              "detail": "Fight the Vanduul across the Odin system"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Act 3",
+              "detail": "Lead your squadron in the final fleet battle"
             }
           ]
         }
@@ -304,27 +304,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Squadron 42.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Squadron 42?",
+          "answer": "Squadron 42 is a cinematic single-player space combat game set in the Star Citizen universe. You enlist in the UEE Navy and fight through a story-driven campaign featuring dogfights, boarding actions, and large-scale fleet battles."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "What platforms is Squadron 42 on?",
+          "answer": "Squadron 42 is being developed for PC (Windows) and is planned for release through the official RSI website and Steam."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Is Squadron 42 the same as Star Citizen?",
+          "answer": "No. Squadron 42 is a standalone single-player campaign set in the same universe as the Star Citizen persistent-universe MMO."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Does Squadron 42 have active codes?",
+          "answer": "Squadron 42 does not use redeemable codes. Any codes circulating online are not official, so always check the RSI website for accurate information."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "When does Squadron 42 release?",
+          "answer": "Cloud Imperium Games has not announced a final release date. Follow the official RSI website and channel for the latest development updates."
         }
       ]
     },
@@ -341,7 +341,7 @@
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
+    "playOnRoblox": "Visit Official Website",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
